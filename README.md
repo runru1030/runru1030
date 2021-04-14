@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a5d89f&text=%20runru1030%20%20&height=200&fontSize=80&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a5d89f&text=%20runru1030%20%20&height=200&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlign=70)
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runru1030&show_icons=true&theme=gotham)](https://github.com/runru1030/github-readme-stats)
 <!--
