@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=%20runru1030%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20runru1030%20%20&height=200&fontSize=100)
 ### Hi there 👋
 
 <!--
