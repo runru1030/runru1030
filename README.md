@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a></p>  
 
-
 <p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -19,21 +18,19 @@
 
 
 
-<h3 align="center">🔥 My Blog 🔥</h3>
+
+<h3 align="center">🔥 My Blog 🔥</h3>  
 <h4 align="center">There is my study board! Come and See :-D</h4>
-👉[homekeeper's Dev Challenger](https://keeper.tistory.com/) 
+
+[<p align="center">👉 homekeeper's Dev Challenger</p>](https://keeper.tistory.com/)
 
 
 
 
+<h1></h1>
 
 
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runru1030&show_icons=true&theme=gotham)](https://github.com/runru1030/github-readme-stats)  
-
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runru1030&show_icons=true&theme=gotham)](https://github.com/runru1030/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runru1030&layout=compact&theme=gotham)](https://github.com/runru1030/github-readme-stats)
 
 
