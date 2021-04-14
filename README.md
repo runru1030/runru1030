@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=516e4d&text=%20runru1030%20%20&height=200&fontSize=80&fontColor=eeeeee&animation=fadeIn&fontAlign=70)
-<h2 align="center">Hi there 👋</h2>  
+![header](https://capsule-render.vercel.app/api?type=waving&color=a5d89f&text=%20runru1030%20%20&height=200&fontSize=80&fontColor=eeeeee&animation=fadeIn&fontAlign=70)
+<h2 align="center">Hi there 👋</h2>    
 <h1 align="center">💻 Tech Stack 💻 </h1>
 <h4 align="center">These are Languages or Frameworks that I've studied and used!</h4></center>
 
@@ -19,7 +19,8 @@
 
 
 
----  
+
+
 
 
 
