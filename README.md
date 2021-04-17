@@ -34,6 +34,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runru1030&layout=compact&theme=gotham)](https://github.com/runru1030/github-readme-stats)
-
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=runru)](https://solved.ac/runru)
