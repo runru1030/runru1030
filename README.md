@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a5d89f&text=%20runru1030%20%20&height=200&fontSize=80&fontColor=576154&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6BEC9D&text=%20runru1030%20%20&height=200&fontSize=50&fontColor=fff&animation=fadeIn&fontAlign=80)
 <h3 align="center">Hi there 👋</h2>    
 <h1 align="center">💻 Tech Stack 💻</h1>
 <h4 align="center">These are Languages or Frameworks that I've studied and used!</h4>
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a></p>  
 
 
 
