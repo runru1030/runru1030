@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6BEC9D&text=%20runru1030%20%20&height=200&fontSize=50&fontColor=fff&animation=fadeIn&fontAlign=80)
 <h3 align="center">Hi there 👋</h2>    
 <h1 align="center">💻 Tech Stack 💻</h1>
 <h4 align="center">These are Languages or Frameworks that I've studied and used!</h4>
@@ -22,18 +21,17 @@
 
 
 <h3 align="center">🔥 My Blog 🔥</h3>  
-<h4 align="center">There is my study board! Come and See :-D</h4>
+<h4 align="center">There is my study board! Come and See :-D
 
-[<p align="center">👉 homekeeper's Dev Challenger</p>](https://keeper.tistory.com/)
+[👉 homekeeper's Dev Challenger](https://keeper.tistory.com/)
+</h4>
+
+
 
 
 
 
 <h1></h1>
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runru1030&show_icons=true&theme=gotham)](https://github.com/runru1030/github-readme-stats)  
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runru1030&layout=compact&theme=gotham)](https://github.com/runru1030/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=runru)](https://solved.ac/runru)
